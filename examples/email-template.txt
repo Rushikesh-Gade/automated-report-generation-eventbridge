@@ -1,0 +1,23 @@
+Subject: Daily Business Report - 2026-02-14
+
+Dear Team,
+
+Please find attached the daily business report generated on 2026-02-14 18:12:30.
+
+Report includes:
+- Sales summary by product
+- Inventory levels by product
+- Sales ratio analysis
+
+This report has been automatically generated and stored in S3 at: reports/daily_report_20260214_181230.csv
+
+Best regards,
+Automated Reporting System
+
+---
+
+Attachment: daily_report_20260214.csv
+
+Product,Total Sales,Total Inventory,Sales Ratio
+Product A,3300,550,6.00
+Product B,3600,400,9.00
