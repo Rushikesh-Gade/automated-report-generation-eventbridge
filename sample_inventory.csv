@@ -1,0 +1,5 @@
+Product,Stock,Warehouse,Last_Updated
+Product A,250,Warehouse 1,2025-01-03
+Product B,180,Warehouse 1,2025-01-03
+Product A,300,Warehouse 2,2025-01-03
+Product B,220,Warehouse 2,2025-01-03

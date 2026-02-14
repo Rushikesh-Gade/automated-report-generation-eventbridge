@@ -1,0 +1,1 @@
+{"statusCode": 500, "body": "\"Error generating report: An error occurred (MessageRejected) when calling the SendRawEmail operation: Email address is not verified. The following identities failed the check in region AP-SOUTH-1: rushikeshgade093@gmail.com\""}
