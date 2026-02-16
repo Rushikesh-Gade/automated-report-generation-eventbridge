@@ -340,8 +340,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: https://github.com/Rushikesh-Gade/automated-report-generation-eventbridge/edit/main/README.md
+- LinkedIn:https://www.linkedin.com/in/rishi-gade-9032a9238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Email: rushikeshgade093@gmail.com
 
 ## 🙏 Acknowledgments
