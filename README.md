@@ -341,7 +341,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Rushikesh Gade**
 - GitHub: [@Rushikesh-Gade](https://github.com/Rushikesh-Gade)
-- LinkedIn: [Rushikesh Gade](https://linkedin.com/in/rushikesh-gade)
+- LinkedIn: [Rushikesh Gade](https://linkedin.com/in/rushikesh-gade)](https://www.linkedin.com/in/rishi-gade-9032a9238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Email: rushikeshgade093@gmail.com
 
 ## 🙏 Acknowledgments
