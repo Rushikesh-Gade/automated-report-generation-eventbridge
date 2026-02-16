@@ -18,8 +18,8 @@ Before starting, ensure you have:
 ### 1. Clone and Navigate
 
 ```bash
-git clone https://github.com/yourusername/aws-eventbridge-report-automation.git
-cd aws-eventbridge-report-automation
+git clone https://github.com/Rushikesh-Gade/automated-report-generation-eventbridge.git
+cd automated-report-generation-eventbridge
 ```
 
 ### 2. Set Your Email
@@ -331,7 +331,7 @@ chmod +x scripts/cleanup.sh
 ## Getting Help
 
 - **Documentation:** See [README.md](README.md) and [PROJECT_DOCUMENTATION.md](PROJECT_DOCUMENTATION.md)
-- **Issues:** Check [GitHub Issues](../../issues)
+- **Issues:** Check [GitHub Issues](https://github.com/Rushikesh-Gade/automated-report-generation-eventbridge/issues)
 - **AWS Docs:** [AWS Lambda](https://docs.aws.amazon.com/lambda/) | [EventBridge](https://docs.aws.amazon.com/eventbridge/)
 
 ---

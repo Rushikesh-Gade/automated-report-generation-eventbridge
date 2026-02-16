@@ -99,8 +99,8 @@ This project demonstrates a fully serverless solution for automated business rep
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/aws-eventbridge-report-automation.git
-cd aws-eventbridge-report-automation
+git clone https://github.com/Rushikesh-Gade/automated-report-generation-eventbridge.git
+cd automated-report-generation-eventbridge
 ```
 
 ### Step 2: Set Environment Variables
@@ -339,10 +339,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+**Rushikesh Gade**
+- GitHub: [@Rushikesh-Gade](https://github.com/Rushikesh-Gade)
+- LinkedIn: [Rushikesh Gade](https://linkedin.com/in/rushikesh-gade)
+- Email: rushikeshgade093@gmail.com
 
 ## 🙏 Acknowledgments
 

@@ -60,7 +60,7 @@ git add .
 git commit -m "Initial commit: AWS EventBridge Report Automation"
 
 # Create GitHub repository and push
-git remote add origin https://github.com/yourusername/aws-eventbridge-report-automation.git
+git remote add origin https://github.com/Rushikesh-Gade/automated-report-generation-eventbridge.git
 git branch -M main
 git push -u origin main
 ```
@@ -279,9 +279,9 @@ This project demonstrates real-world cloud engineering skills that employers val
 
 ## 📞 Questions or Issues?
 
-- **GitHub Issues:** [Create an issue](../../issues)
-- **Email:** your.email@example.com
-- **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
+- **GitHub Issues:** [Create an issue](https://github.com/Rushikesh-Gade/automated-report-generation-eventbridge/issues)
+- **Email:** rushikeshgade093@gmail.com
+- **LinkedIn:** [Rushikesh Gade](https://linkedin.com/in/rushikesh-gade)
 
 ---
 

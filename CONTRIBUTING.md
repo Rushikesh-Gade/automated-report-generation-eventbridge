@@ -8,7 +8,7 @@ Thank you for your interest in contributing to this project! This document provi
 
 If you find a bug or have a suggestion:
 
-1. Check if the issue already exists in the [Issues](../../issues) section
+1. Check if the issue already exists in the [Issues](https://github.com/Rushikesh-Gade/automated-report-generation-eventbridge/issues) section
 2. If not, create a new issue with:
    - Clear title and description
    - Steps to reproduce (for bugs)

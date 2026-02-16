@@ -102,7 +102,7 @@ Key achievements:
 
 This project reinforced my understanding of event-driven architectures and AWS best practices. The serverless approach is incredibly cost-effective for scheduled tasks!
 
-Check out the full project on GitHub: [your-repo-link]
+Check out the full project on GitHub: https://github.com/Rushikesh-Gade/automated-report-generation-eventbridge
 
 #AWS #Serverless #CloudComputing #Python #DevOps #Automation
 
