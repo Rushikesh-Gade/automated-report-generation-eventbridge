@@ -1,5 +1,15 @@
-Product,Stock,Warehouse,Last_Updated
-Product A,250,Warehouse 1,2025-01-03
-Product B,180,Warehouse 1,2025-01-03
-Product A,300,Warehouse 2,2025-01-03
-Product B,220,Warehouse 2,2025-01-03
+Product,Category,Stock,Reorder_Level,Unit_Price,Warehouse,Supplier,Last_Updated
+Laptop Pro X1,Electronics,45,10,17000,Mumbai Warehouse,TechSupply India,2026-04-07
+Wireless Headphones,Electronics,120,20,1500,Mumbai Warehouse,AudioTech Ltd,2026-04-07
+Office Chair Deluxe,Furniture,38,8,6000,Pune Warehouse,FurniCraft Co,2026-04-07
+Mechanical Keyboard,Electronics,85,15,1900,Mumbai Warehouse,TechSupply India,2026-04-07
+Standing Desk,Furniture,22,5,16000,Pune Warehouse,FurniCraft Co,2026-04-07
+USB-C Hub,Electronics,200,30,500,Mumbai Warehouse,TechSupply India,2026-04-07
+Monitor 27inch 4K,Electronics,30,8,18000,Mumbai Warehouse,DisplayTech Ltd,2026-04-07
+Laptop Pro X1,Electronics,30,10,17000,Delhi Warehouse,TechSupply India,2026-04-07
+Wireless Headphones,Electronics,75,20,1500,Delhi Warehouse,AudioTech Ltd,2026-04-07
+Office Chair Deluxe,Furniture,50,8,6000,Delhi Warehouse,FurniCraft Co,2026-04-07
+Mechanical Keyboard,Electronics,60,15,1900,Delhi Warehouse,TechSupply India,2026-04-07
+Standing Desk,Furniture,15,5,16000,Delhi Warehouse,FurniCraft Co,2026-04-07
+USB-C Hub,Electronics,150,30,500,Delhi Warehouse,TechSupply India,2026-04-07
+Monitor 27inch 4K,Electronics,25,8,18000,Delhi Warehouse,DisplayTech Ltd,2026-04-07
