@@ -15,7 +15,11 @@ def lambda_handler(event, context):
     
     data_bucket = os.environ['DATA_BUCKET']
     reports_bucket = os.environ['REPORTS_BUCKET']
-    email_address = os.environ['EMAIL_ADDRESS']
+    email_addresses = [
+        'rushikeshgade093@gmail.com',
+        'rushikeshgade2540@gmail.com',
+        'rushikeshgade2066@gmail.com'
+    ]
     
     try:
         # Read sales data from S3
@@ -38,8 +42,9 @@ def lambda_handler(event, context):
             ContentType='text/csv'
         )
         
-        # Send email notification with report attachment
-        send_email_report(ses, email_address, report_content, report_key)
+        # Send email notification with report attachment to all addresses
+        for email_address in email_addresses:
+            send_email_report(ses, email_address, report_content, report_key)
         
         return {
             'statusCode': 200,

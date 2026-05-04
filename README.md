@@ -29,6 +29,27 @@ This project demonstrates a fully serverless solution for automated business rep
 
 **Problem Solved:** Organizations often struggle with manual report generation, leading to delays and inconsistent delivery. This solution automates the entire process, ensuring timely and reliable report distribution.
 
+### Current Deployment Status
+
+**Status:** ✅ Successfully Deployed and Running
+
+**AWS Account:** 368428768532  
+**Region:** ap-south-1 (Mumbai)
+
+**Deployed Resources:**
+- Lambda Function: `report-generator-18620`
+- S3 Data Bucket: `report-data-18620`
+- S3 Reports Bucket: `report-output-18620`
+- EventBridge Schedule: `daily-reports-18620`
+- IAM Roles: `ReportGeneratorRole`, `EventBridgeSchedulerRole`
+
+**Schedule:** Daily at 9:00 PM IST (15:30 UTC)
+
+**Email Recipients:**
+- rushikeshgade093@gmail.com
+- rushikeshgade2540@gmail.com
+- rushikeshgade2066@gmail.com
+
 ## 🏗️ Architecture
 
 ```

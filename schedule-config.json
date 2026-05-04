@@ -1,0 +1,4 @@
+{
+  "Arn": "arn:aws:lambda:ap-south-1:368428768532:function:report-generator-18620",
+  "RoleArn": "arn:aws:iam::368428768532:role/EventBridgeSchedulerRole"
+}
