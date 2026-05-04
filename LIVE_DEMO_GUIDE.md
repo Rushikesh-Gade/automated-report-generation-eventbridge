@@ -11,9 +11,9 @@
 ## Current Deployment Details
 
 ### AWS Account
-- **Account ID:** 368428768532
+- **Account ID:** 3684........
 - **Region:** ap-south-1 (Mumbai)
-- **User:** Rushi
+- **User:** Ru....
 
 ### Resource Names
 - **S3 Data Bucket:** `report-data-18620`
