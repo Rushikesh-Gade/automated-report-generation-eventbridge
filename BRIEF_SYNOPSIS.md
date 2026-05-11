@@ -265,7 +265,7 @@ https://github.com/Rushikesh-Gade/automated-report-generation-eventbridge
 
 **Deployment Details:**
 - AWS Region: ap-south-1 (Mumbai)
-- AWS Account: 936998755370
+- AWS Account: 93...........
 - Deployment Date: February 14, 2026
 
 **Contact:**
